@@ -1,5 +1,24 @@
-# React + Vite
+# Aura 🤖✨
 
+A fun chatbot built in under 15 minutes using React + Antigravity.
+
+## 🚀 Live Demo
+https://aura-chatbot-259687304411.us-east1.run.app/
+
+## 🛠 Tech Stack
+- React
+- Vite
+- Google Cloud Run
+
+## ⚡ Features
+- Interactive chatbot UI
+- Fast deployment
+- Clean UI/UX
+
+
+
+
+# React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
